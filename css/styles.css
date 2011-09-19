@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+#html{
+}
+#body{
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+}
+/**********
+CONTAINER
+***********/
+#container{
+	width:960px;
+}
+/**********
+HEADER
+***********/
+#header{
+}
+/**********
+MAIN MENU
+***********/
+#menu_main{
+	width:260px;
+	float:left;
+}
+/**********
+CONTENT
+***********/
+#content{
+	min-height:500px;
+}
+/**********
+FOOTER
+***********/
+#footer{
+}
